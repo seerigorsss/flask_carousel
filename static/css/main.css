@@ -1,0 +1,20 @@
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+
+/* Carousel */
+.my-carousel {
+	padding: 0 100px 100px 100px;
+}
+
+.my-carousel .carousel-item {
+	display: flex;
+	max-height: 900px;
+}
+
+.my-carousel .carousel-item img {
+	object-fit: cover;
+}
+/* Carousel */
